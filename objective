@@ -1,0 +1,13 @@
+OBJ
+
+An optimization model for station site optimization in bike sharing systems could consider the demand as an endogenous variable by using a demand forecasting model that predicts the demand for bike rentals at different locations based on historical data and external factors such as weather, events, and holidays.
+
+The optimization model could then use the demand forecast to determine the optimal number of bikes to allocate to each station, subject to constraints such as the total number of bikes available, the maximum capacity of each station, and the cost of moving bikes between stations.
+
+The objective of the optimization model could be to minimize the total cost of bike allocation and bike movement, while satisfying the demand for bikes at each station. The optimization model could be formulated as a linear or integer programming problem, or a more sophisticated mathematical model such as a mixed-integer linear programming (MILP) model.
+
+In order to improve the accuracy of the demand forecast, the optimization model could also include feedback loops that update the demand forecast based on observed demand patterns and the results of the optimization model.
+
+
+
+
